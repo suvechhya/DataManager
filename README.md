@@ -1,8 +1,6 @@
 # DataManager
 
 This code creates a package that loads and manipulates Data.
-The package is published in the given link: https://www.npmjs.com/package/data-manager-suvechhya
-To install the package use the following command: npm i data-manager-suvechhya
 
 # Build command:
 npm run build
